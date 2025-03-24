@@ -1,0 +1,52 @@
+# API keys and sensitive data
+api.py
+**/api_keys.py
+**/credentials.py
+
+# Model files
+*.h5
+*.model
+*.pkl
+*.pth
+*.onnx
+
+# Environment and virtual environments
+.env
+.venv/
+venv/
+env/
+ENV/
+__pycache__/
+*.py[cod]
+*$py.class
+
+# System files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE files
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Large media files
+*.mp4
+*.mov
+*.avi
+*.wav
+*.mp3
+
+# Data files
+/data/
+*.csv
+*.json
+
+# Logs
+logs/
+*.log
+
+# Temporary files
+*.tmp
+temp/
