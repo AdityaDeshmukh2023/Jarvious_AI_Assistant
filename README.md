@@ -1,2 +1,2 @@
 # Jarvious_AI_Assistant
-A local based assistant just for windows os 
+A local based assistant for windows os 
